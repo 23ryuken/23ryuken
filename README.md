@@ -1,5 +1,5 @@
 <div style="width:100%;">  
-  <img src="23ryuken.jpg"  
+  <img src="23ryuken.png"  
        alt="23ryuken"  
        style="width:100%; height:auto; display:block;">  
 </div>
