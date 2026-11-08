@@ -1,183 +1,153 @@
 <p align="center">
-  <img src="assets/banner-grand-line.svg" alt="23ryuken, backend-leaning full-stack developer, a pirate ship sailing into a sunset" width="100%">
+  <img src="assets/interstellar-banner.svg" alt="23ryuken, full-stack software engineer, in an interstellar setting" width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/wanted-poster.svg" alt="Wanted poster for 23ryuken: officially whelmed" width="80%">
+  <img src="https://readme-typing-svg.demolab.com/?font=Orbitron&size=28&pause=1000&color=7DD3FC&center=true&vCenter=true&width=700&lines=FULL-STACK+SOFTWARE+ENGINEER;BUILDING+SYSTEMS+BEYOND+THE+HORIZON;SHIPPING+PRODUCTS+THAT+SCALE" alt="Full stack software engineer profile headline" />
 </p>
-
-<p align="center"><sub>Nairobi, Kenya &nbsp;·&nbsp; Freelance</sub></p>
 
 <p align="center">
-  <img src="assets/rope-compass.svg" alt="" width="70%">
+  <sub>🚀 Nairobi, Kenya · Full-stack engineer · Building products for the next mission</sub>
 </p>
-
-<!-- ============================ WHO AM I ============================ -->
 
 <p align="center">
-  <img src="assets/heading-who-am-i.svg" alt="Who am I?" width="100%">
+  <a href="https://github.com/23ryuken"><img src="https://img.shields.io/badge/GitHub-23ryuken-0b1320?logo=github&logoColor=7dd3fc&style=for-the-badge" alt="GitHub: 23ryuken"></a>
+  <a href="https://x.com/23ryuken"><img src="https://img.shields.io/badge/X-%4023ryuken-111827?logo=x&logoColor=7dd3fc&style=for-the-badge" alt="X: @23ryuken"></a>
+  <a href="https://www.instagram.com/23.ryuken"><img src="https://img.shields.io/badge/Instagram-23.ryuken-111827?logo=instagram&logoColor=c4b5fd&style=for-the-badge" alt="Instagram: 23ryuken"></a>
+  <a href="mailto:ericmbithiofficial2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111827?logo=gmail&logoColor=fb7185&style=for-the-badge" alt="Email"></a>
 </p>
 
-<table align="center">
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-LAUNCH%20READY-38BDF8?style=for-the-badge" alt="Launch ready" />
+  <img src="https://img.shields.io/badge/STACK-FULL-STACK%20ENGINEER-0EA5E9?style=for-the-badge" alt="Full-stack engineer" />
+</p>
+
+<p align="center">
+  <img src="assets/orbital-divider.svg" alt="Orbital divider" width="90%">
+</p>
+
+<!-- ============================ ABOUT ME ============================ -->
+
+<h2 align="center">🛰️ Mission brief</h2>
+
+<table align="center" width="90%">
   <tr>
-    <td width="30%" align="center" valign="middle">
-      <img src="assets/jolly-roger.svg" alt="A skull wearing a red bandana above crossbones drawn as code brackets" width="200">
+    <td width="28%" align="center" valign="middle">
+      <img src="https://avatars.githubusercontent.com/u/126306191?v=4" alt="23ryuken avatar" width="220" style="border-radius: 50%; border: 3px solid #7dd3fc;" />
     </td>
-    <td width="70%" valign="middle">
-      I'm a backend-leaning full-stack developer based in Nairobi, working as a freelancer. I trained at Moringa School and build with <b>Node.js</b>, <b>Express</b>, <b>MongoDB</b> and <b>PostgreSQL</b>, with <b>React</b> on the front end and <b>Python</b> when the project calls for it.
+    <td width="72%" valign="middle">
+      I’m a full-stack software engineer building practical products for real users. I have a backend-first mindset and work across the stack with <b>Node.js</b>, <b>Express</b>, <b>React</b>, <b>TypeScript</b>, <b>MongoDB</b>, <b>PostgreSQL</b>, and <b>Python</b> when a project needs a stronger engineering toolset.
       <br><br>
-      Right now I'm building <b>TraceMind</b>, a tool that helps developers investigate errors, and <b>Manifest-Prime</b>, a way for freelancers to deliver finished work through a link they can track.
+      I enjoy turning business ideas into clean architecture, fast APIs, and thoughtful user experiences. My active mission sites include <b>TraceMind</b> for debugging investigation and <b>Manifest-Prime</b> for client delivery workflows that are easy to track and share.
     </td>
   </tr>
 </table>
 
-<!-- ============================ PIRATE CREW ============================ -->
+<!-- ============================ SOCIAL LINKS ============================ -->
+
+<h2 align="center">📡 Mission control</h2>
 
 <p align="center">
-  <img src="assets/heading-pirate-crew.svg" alt="The Pirate Crew" width="100%">
+  <a href="https://github.com/23ryuken"><img src="https://img.shields.io/badge/GitHub-Profile-0b1320?logo=github&logoColor=7dd3fc&style=for-the-badge" alt="GitHub profile"></a>
+  <a href="https://x.com/23ryuken"><img src="https://img.shields.io/badge/X-%4023ryuken-111827?logo=x&logoColor=7dd3fc&style=for-the-badge" alt="X profile"></a>
+  <a href="https://www.instagram.com/23.ryuken"><img src="https://img.shields.io/badge/Instagram-23.ryuken-111827?logo=instagram&logoColor=c4b5fd&style=for-the-badge" alt="Instagram profile"></a>
+  <a href="mailto:ericmbithiofficial2@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-111827?logo=gmail&logoColor=fb7185&style=for-the-badge" alt="Email contact"></a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/23ryuken"><img src="assets/social-github.svg" alt="GitHub: 23ryuken" height="44"></a>
-  <a href="https://x.com/23ryuken"><img src="assets/social-x.svg" alt="X: @23ryuken" height="44"></a>
-  <a href="https://www.instagram.com/23.ryuken"><img src="assets/social-instagram.svg" alt="Instagram: 23ryukenn" height="44"></a>
-  <a href="mailto:ericmbithiofficial2@gmail.com"><img src="assets/social-email.svg" alt="Email" height="44"></a>
-  <!-- <a href="YOUR_PORTFOLIO_URL"><img src="assets/social-portfolio.svg" alt="Portfolio" height="44"></a> -->
-  
+  <img src="assets/orbital-divider.svg" alt="Orbital divider" width="90%">
+</p>
+
+<!-- ============================ STATS ============================ -->
+
+<h2 align="center">📊 Flight telemetry</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=23ryuken&show_icons=true&theme=tokyonight&hide_border=true&title_color=7dd3fc&icon_color=38bdf8&text_color=e2e8f0&bg_color=0b1020" alt="GitHub stats" width="680" />
 </p>
 
 <p align="center">
-  <img src="assets/rope-compass.svg" alt="" width="70%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=23ryuken&theme=tokyonight&hide_border=true&background=0b1020&stroke=7dd3fc&ring=38bdf8&fire=f59e0b&currStreakNum=e2e8f0&sideNums=e2e8f0&currStreakLabel=7dd3fc&sideLabels=7dd3fc" alt="GitHub streak stats" width="680" />
 </p>
-
-<!-- ============================ PIRATE'S LOG ============================ -->
 
 <p align="center">
-  <img src="assets/heading-pirates-log.svg" alt="The Pirate's Log" width="100%">
+  <img src="assets/orbital-divider.svg" alt="Orbital divider" width="90%">
 </p>
 
-<!-- STAGE 6: contribution snake, top languages card and stats card go here. -->
+<!-- ============================ TECH STACK ============================ -->
 
-<p align="center">
-  <img src="assets/rope-compass.svg" alt="" width="70%">
-</p>
-
-<!-- ============================ DEVIL FRUIT COLLECTION ============================ -->
-
-<p align="center">
-  <img src="assets/heading-devil-fruit-collection.svg" alt="Devil Fruit Collection" width="100%">
-</p>
+<h2 align="center">🧩 Engine systems</h2>
 
 <table align="center" width="80%">
   <tr>
     <td width="22%" valign="middle"><b>Languages</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=js,py" alt="JavaScript, Python" height="48"><br>
-      <img src="assets/shelf.svg" alt="" width="100%">
+      <img src="https://skillicons.dev/icons?i=ts,js,py,md" alt="TypeScript, JavaScript, Python, Markdown" height="48"><br>
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>Frontend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=react" alt="React" height="48"><br>
-      <img src="assets/shelf.svg" alt="" width="100%">
+      <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" alt="React, Next.js, Tailwind" height="48"><br>
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>Backend</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" height="48"><br>
-      <img src="assets/shelf.svg" alt="" width="100%">
+      <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Node.js, Express, FastAPI" height="48"><br>
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>Databases</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=mongodb,postgres" alt="MongoDB, PostgreSQL" height="48"><br>
-      <img src="assets/shelf.svg" alt="" width="100%">
+      <img src="https://skillicons.dev/icons?i=mongodb,postgresql" alt="MongoDB, PostgreSQL" height="48"><br>
     </td>
   </tr>
   <tr>
     <td valign="middle"><b>Tools</b></td>
     <td>
-      <img src="https://skillicons.dev/icons?i=git,github" alt="Git, GitHub" height="48"><br>
-      <img src="assets/shelf.svg" alt="" width="100%">
+      <img src="https://skillicons.dev/icons?i=git,github,docker,figma,vscode" alt="Git, GitHub, Docker, Figma, VS Code" height="48"><br>
     </td>
   </tr>
 </table>
 
-<!-- Add cloud/deployment or other rows here once confirmed, copying one <tr> block above. -->
-
 <p align="center">
-  <img src="assets/rope-compass.svg" alt="" width="70%">
+  <img src="assets/orbital-divider.svg" alt="Orbital divider" width="90%">
 </p>
 
-<!-- ============================ PIRATE ADVENTURES ============================ -->
+<!-- ============================ PROJECTS ============================ -->
 
-<p align="center">
-  <img src="assets/heading-pirate-adventures.svg" alt="Pirate Adventures" width="100%">
-</p>
+<h2 align="center">🪐 Active missions</h2>
 
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/adventure-01-header.svg" alt="Adventure No. 1" width="100%">
-      <br>
-      <b><a href="https://github.com/23ryuken/TraceMind">TraceMind</a></b>
+      <img src="assets/mission-tracemind.svg" alt="TraceMind debugging investigation mission patch" width="100%"><br><br>
+      <b><a href="https://github.com/23ryuken/TraceMind">TraceMind</a></b><br>
+      An investigation tool for debugging that captures error evidence and helps trace the likely cause with context intact.
       <br><br>
-      A debugging investigation tool that captures errors together with the evidence available, then uses AI to investigate why an error may have happened.
-      <br><br>
-      <sub><b>Language:</b> Python &nbsp;·&nbsp; <a href="https://github.com/23ryuken/TraceMind">Repository</a></sub>
-      <!-- Live demo: add <a href="YOUR_DEMO_URL">Live demo</a> to the line above when one exists. -->
+      <sub><b>Stack:</b> Python</sub>
     </td>
     <td width="50%" valign="top">
-      <img src="assets/adventure-02-header.svg" alt="Adventure No. 2" width="100%">
-      <br>
-      <b><a href="https://github.com/23ryuken/Manifest-Prime">Manifest-Prime</a></b>
+      <img src="assets/mission-manifest-prime.svg" alt="Manifest-Prime client delivery mission patch" width="100%"><br><br>
+      <b><a href="https://github.com/23ryuken/Manifest-Prime">Manifest-Prime</a></b><br>
+      A delivery workflow for freelancers and agencies: send polished work via a link and know when it was opened or downloaded.
       <br><br>
-      Client delivery for freelancers and small studios: send finished work through a polished link, and know when it was opened and downloaded.
-      <br><br>
-      <sub><b>Language:</b> JavaScript &nbsp;·&nbsp; <a href="https://github.com/23ryuken/Manifest-Prime">Repository</a></sub>
+      <sub><b>Stack:</b> JavaScript</sub>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <img src="assets/rope-compass.svg" alt="" width="70%">
-</p>
+<!-- ============================ QUOTE ============================ -->
 
-<!-- ============================ BOUNTY BOARD ============================ -->
+<h2 align="center">🌌 Crew mantra</h2>
 
 <p align="center">
-  <img src="assets/heading-bounty-board.svg" alt="Bounty Board" width="100%">
-</p>
-
-<table align="center">
-  <tr>
-    <td align="center" valign="middle" width="90">
-      <img src="assets/bounty-badge.svg" alt="Bounty badge" width="64">
-    </td>
-    <td valign="middle">
-      <b>Moringa School</b><br>
-      Completed the software development training program.
-    </td>
-  </tr>
-  <!-- Add more milestones by copying the <tr> block above. -->
-</table>
-
-<!-- ============================ PIRATE'S CODE ============================ -->
-
-<p align="center">
-  <img src="assets/heading-pirates-code.svg" alt="The Pirate's Code" width="100%">
+  <i>Build resilient systems.<br>
+  Ship with clarity.<br>
+  Keep learning like there is always one more galaxy to discover.</i>
 </p>
 
 <p align="center">
-  <i>Maps are drawn by the people who sail them.<br>
-  I ship early, read every error as a chart of the waters ahead,<br>
-  and value the crew I build with as much as the code I write.<br>
-  The horizon moves. So do I.</i>
-</p>
-
-<p align="center">
-  <img src="assets/footer-horizon.svg" alt="A pirate ship sailing toward the sunset" width="100%">
+  <img src="assets/interstellar-footer.svg" alt="Keep building beyond the horizon, with a planet in the distance" width="100%">
 </p>
